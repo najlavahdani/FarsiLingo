@@ -1,0 +1,5 @@
+fastapi==0.109.1             # FastAPI framework
+sqlalchemy==2.0.22           # SQLAlchemy ORM
+psycopg2-binary==2.9.7       # PostgreSQL driver
+pydantic-settings==0.2.1     # Pydantic settings for .env management
+alembic==1.12.1              # Database migrations
