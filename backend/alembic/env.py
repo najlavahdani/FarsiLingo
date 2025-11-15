@@ -26,6 +26,8 @@ if config.config_file_name is not None:
 from src.core.database import Base
 
 # add your model's MetaData object here
+from src.models import *
+
 # for 'autogenerate' support
 # from myapp import mymodel
 
